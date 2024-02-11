@@ -1,3 +1,3 @@
-![Output Images](output/output.1png)
-![Output Images](output/output.2png)
+![Output Images](output/output1.png)
+![Output Images](output/output2.png)
 
