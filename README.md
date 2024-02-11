@@ -21,7 +21,7 @@ To install and run the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/news-aggregator.git
+   git clone https://github.com/yourusername/news_api_web.git
 
 
 
